@@ -1,8 +1,8 @@
 
-import Stopwatch from "./Stopwatch.jsx"
+import Stopwatch from "./Stopwatch"
 
 function App() {
-return (<Stopwatch/>)
+return (<Stopwatch />)
 
 }
 
